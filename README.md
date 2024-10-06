@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm AQSA KHAN JADOON</h1>
-<h3 align="center">A passionate Mern Stack Developer and Amazon FBA Virtual Assistant from Pakistan</h3>
+<h3 align="center">🌟 Data Scientist | AI Enthusiast | Python Expert </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqsa-khan-jadoon&label=Profile%20views&color=0e75b6&style=flat" alt="aqsa-khan-jadoon" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aqsa-khan-jadoon" alt="aqsa-khan-jadoon" /></a> </p>
 
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱 I’m currently learning **DATA SCIENCE**
 
-- 💬 Ask me about **Amazon FBA( Keepa, SAS, Jungle Scout, FBA toolkit, OS ADDON)**
+- 💬 Ask me about **Data Scientist (Python, ML, Excel, Power BI, SQL Expert)**
 
 - 📫 How to reach me **jadoonaqsakhan@gmail.com**
 
