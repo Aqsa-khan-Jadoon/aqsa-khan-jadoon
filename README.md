@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm AQSA KHAN JADOON</h1>
 <h3 align="center">🌟 Data Scientist | AI Enthusiast | Python Expert </h3>
 
+
 - 🌱 I’m currently pursuing Master's in **Data Science** from Fast University
 
 - 💬 Ask me about **Data Scientist (Python, ML, Excel, Power BI, SQL Expert)**
