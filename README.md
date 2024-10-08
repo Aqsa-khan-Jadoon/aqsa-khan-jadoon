@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AQSA KHAN JADOON</h1>
-<h3 align="center">🌟 Data Scientist | AI Enthusiast | Python Expert </h3>
+<h3 align="center"> Data Scientist | AI Enthusiast | Python Expert </h3>
 
 
 - 🌱 I’m currently pursuing Master's in **Data Science** from Fast University
@@ -10,8 +10,6 @@
 
 - 📫 Connect with me on LinkedIn: [Aqsa Khan Jadoon](https://www.linkedin.com/in/aqsa-khan-jadoon-29912526b)
 
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
