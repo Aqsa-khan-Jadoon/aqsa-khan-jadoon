@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm AQSA KHAN JADOON</h1>
 <h3 align="center">🌟 Data Scientist | AI Enthusiast | Python Expert </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aqsa-khan-jadoon" alt="aqsa-khan-jadoon" /></a> </p>
-
-- 🌱 I’m currently pursuing Master's in **Data Science** from "Fast University"
+- 🌱 I’m currently pursuing Master's in **Data Science** from Fast University
 
 - 💬 Ask me about **Data Scientist (Python, ML, Excel, Power BI, SQL Expert)**
 
