@@ -100,8 +100,8 @@ Published in **MediaEval 2026 Working Notes Proceedings**
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aqsa-khan-jadoon&show_icons=true&theme=github_dark&hide_border=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqsa-khan-jadoon&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aqsa-khan-Jadoon&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aqsa-khan-Jadoon&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
